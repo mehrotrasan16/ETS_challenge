@@ -7,7 +7,7 @@ namespace CodingChallenge
         static void Main()
         {
             Wordsalad wordsalad = new Wordsalad();
-            Console.WriteLine(Wordsalad.Randomness());
+            Console.WriteLine(wordsalad.Randomness());  // Sanket M | 22 Jan 2020 | changed class type Wordsalad.Randomness() to object instance wordsalad.Randomess() to solve build error 
             Console.ReadKey();
         }
     }
@@ -19,7 +19,7 @@ namespace CodingChallenge
         string Color = "blue";
 
         Random RandomNumber = new Random();
-        string[] adjectives = { "bitter", "icy", "shaky", "melodic", "majestic", "fleet, "paltry", "abrubt" };
+        string[] adjectives = { "bitter", "icy", "shaky", "melodic", "majestic", "fleet", "paltry", "abrubt" }; // Sanket M | 22 Jan 2020 | added quote at end of "fleet" to solve build error
         string[] nouns = { "physics", "papers", "calendars", "professors", "houses" };
 
         public Wordsalad()

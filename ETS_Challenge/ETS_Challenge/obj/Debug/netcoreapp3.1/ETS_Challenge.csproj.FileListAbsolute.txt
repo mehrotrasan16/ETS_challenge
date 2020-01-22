@@ -1,3 +1,11 @@
 D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\obj\Debug\netcoreapp3.1\ETS_Challenge.csprojAssemblyReference.cache
 D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\obj\Debug\netcoreapp3.1\ETS_Challenge.AssemblyInfoInputs.cache
 D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\obj\Debug\netcoreapp3.1\ETS_Challenge.AssemblyInfo.cs
+D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\bin\Debug\netcoreapp3.1\ETS_Challenge.exe
+D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\bin\Debug\netcoreapp3.1\ETS_Challenge.deps.json
+D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\bin\Debug\netcoreapp3.1\ETS_Challenge.runtimeconfig.json
+D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\bin\Debug\netcoreapp3.1\ETS_Challenge.runtimeconfig.dev.json
+D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\bin\Debug\netcoreapp3.1\ETS_Challenge.dll
+D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\bin\Debug\netcoreapp3.1\ETS_Challenge.pdb
+D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\obj\Debug\netcoreapp3.1\ETS_Challenge.dll
+D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\obj\Debug\netcoreapp3.1\ETS_Challenge.pdb
