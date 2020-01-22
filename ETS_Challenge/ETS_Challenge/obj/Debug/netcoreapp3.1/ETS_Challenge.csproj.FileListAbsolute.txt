@@ -1,0 +1,3 @@
+D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\obj\Debug\netcoreapp3.1\ETS_Challenge.csprojAssemblyReference.cache
+D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\obj\Debug\netcoreapp3.1\ETS_Challenge.AssemblyInfoInputs.cache
+D:\User\SanketM\Dev\Github\ETS_challenge\ETS_challenge\ETS_Challenge\ETS_Challenge\obj\Debug\netcoreapp3.1\ETS_Challenge.AssemblyInfo.cs
